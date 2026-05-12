@@ -215,24 +215,14 @@ public class ShopManager : MonoBehaviour
         customerDialogText.text = $"{customerData.orderBadText}";
         
     }
-
-    public void MinigameInitialize()                    //미니게임 초기화 함수
-    {
-        attemptCount = 0;
-        isOnMiniGame = false;
-        isOrdering = false;
-        isAbleToGive = false;
-        perfectZoneIndex = new string[5];
-        collectedIngredients = new int[5];
-        timeOverGauge.fillAmount = 1f;
-        indicatorPosition = indicatorStartPos;
-    }
     public void WaitNextCustomer()
     {
         StartCoroutine(WaitSecods());
     }
     IEnumerator WaitSecods()
     {
+        MinigameInitialize();
+        OrderInitialize();
         yield return new WaitForSeconds(3.0f);
         CustomerJoin();
     }
@@ -305,6 +295,43 @@ public class ShopManager : MonoBehaviour
                 isOrderAccomplished = false;    //주문 미완료 처리
                 BadEstimated();                 //나쁜 평가 함수 실행
             }
+        }
+    }
+
+    //초기화
+    public void MinigameInitialize()  // 미니게임 관련 변수 초기화
+    {
+        attemptCount = 0;
+        isOnMiniGame = false;
+        isOrdering = false;
+        isAbleToGive = false;
+        perfectZoneIndex = new string[5];
+        collectedIngredients = new int[5];
+        timeOverGauge.fillAmount = 1f;
+        indicatorPosition.anchoredPosition = indicatorStartPos.anchoredPosition;  // 기존 버그 수정
+        pingPongTime = 0f;  // 추가
+
+        // 수집한 퍼펙트존 UI 초기화
+        foreach (Image img in perfectZoneIndexImage)
+        {
+            if (img != null)
+                img.color = new Color(1f, 1f, 1f, 1f);
+        }
+    }
+
+    public void OrderInitialize()  // 주문 관련 변수 초기화
+    {
+        acceptOrder = false;
+        isOrdering = false;
+        isOrderAccomplished = false;
+        isAbleToGive = false;
+        potionData = null;
+        customerDialog.SetActive(false);
+
+        // 결과 박스 안에 있는 포션 오브젝트 제거
+        foreach (Transform child in resultBox)
+        {
+            Destroy(child.gameObject);
         }
     }
 }

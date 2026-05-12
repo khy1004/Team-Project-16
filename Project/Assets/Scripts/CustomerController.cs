@@ -1,5 +1,6 @@
 using UnityEngine;
 using System.Collections.Generic;
+using UnityEngine.SceneManagement;
 public class CustomerController : MonoBehaviour
 {
     public CustomerData customerData;               //¼Õ´Ô µ¥ÀÌÅÍ °¡Á®¿À±â
@@ -58,7 +59,6 @@ public class CustomerController : MonoBehaviour
         {
             ShopManager.Instance.WaitNextCustomer();
             Debug.Log("¼Õ³ð»ç¸Á¤»¤»");
-            Destroy(gameObject);
         }
     }
 }

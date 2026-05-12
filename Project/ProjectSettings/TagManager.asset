@@ -48,6 +48,9 @@ TagManager:
   - name: Wall
     uniqueID: 180918553
     locked: 0
+  - name: CloserBackgroundObject
+    uniqueID: 2378319841
+    locked: 0
   - name: BackgorundObject
     uniqueID: 1672021587
     locked: 0
