@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: e2103249ca6b7474b88adad258ab4016
+guid: cfce182d5762fc54094822b4d9393194
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2066082498040014989
-    second: 0011_0
+      213: -8704751752000885509
+    second: Invisibility Potion_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 0011_0
+      name: Invisibility Potion_0
       rect:
         serializedVersion: 2
-        x: 266
+        x: 262
         y: 126
-        width: 520
+        width: 524
         height: 829
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d88a35cd5133cac10800000000000000
-      internalID: 2066082498040014989
+      spriteID: bfc270cb662823780800000000000000
+      internalID: -8704751752000885509
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      0011_0: 2066082498040014989
+      Invisibility Potion_0: -8704751752000885509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
