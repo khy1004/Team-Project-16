@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 127638a7738d66f409f7d97ecf4f0777
+guid: 71b062466718a4949bdd64af6c202a37
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1272191982534534774
-    second: customer02_0
+      213: -9158489254062797668
+    second: durahan_behind_0
+  - first:
+      213: 858900432108278705
+    second: durahan_behind_1
+  - first:
+      213: 7806944319172367204
+    second: durahan_behind_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +106,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: customer02_0
+      name: durahan_behind_0
       rect:
         serializedVersion: 2
-        x: 205
-        y: 83
-        width: 307
-        height: 513
+        x: 139
+        y: 650
+        width: 26
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +121,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a89ddead124485ee0800000000000000
-      internalID: -1272191982534534774
+      spriteID: c9cca541c8286e080800000000000000
+      internalID: -9158489254062797668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durahan_behind_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 72
+        width: 241
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b35e31746d6beb00800000000000000
+      internalID: 858900432108278705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: durahan_behind_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 675
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463d58dce76d75c60800000000000000
+      internalID: 7806944319172367204
       vertices: []
       indices: 
       edges: []
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      customer02_0: -1272191982534534774
+      durahan_behind_0: -9158489254062797668
+      durahan_behind_1: 858900432108278705
+      durahan_behind_2: 7806944319172367204
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

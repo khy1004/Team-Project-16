@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a91f1a0cfe7ad674ca24b73f3d3acb4f
+guid: 9634d95f308bc4f41b9438942b300430
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4557328541491746663
-    second: customer05_0
+      213: -9127860209970778792
+    second: wolf_behind_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: customer05_0
+      name: wolf_behind_0
       rect:
         serializedVersion: 2
-        x: 147
-        y: 178
-        width: 331
-        height: 334
+        x: 145
+        y: 73
+        width: 703
+        height: 730
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7675d58a922ee3f30800000000000000
-      internalID: 4557328541491746663
+      spriteID: 85de4412083535180800000000000000
+      internalID: -9127860209970778792
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      customer05_0: 4557328541491746663
+      wolf_behind_0: -9127860209970778792
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 054f1cc14ff3ef64598a1f3c82ffceb0
+guid: cb8e30e6dfe9e6a44b287d8625355e8a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1784389193642820568
-    second: customer06_0
+      213: -5046936332756053703
+    second: medusa_front_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: customer06_0
+      name: medusa_front_0
       rect:
         serializedVersion: 2
-        x: 50
-        y: 60
-        width: 493
-        height: 558
+        x: 29
+        y: 39
+        width: 413
+        height: 567
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 82cbfd38b739c37e0800000000000000
-      internalID: -1784389193642820568
+      spriteID: 931101a252ea5f9b0800000000000000
+      internalID: -5046936332756053703
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      customer06_0: -1784389193642820568
+      medusa_front_0: -5046936332756053703
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

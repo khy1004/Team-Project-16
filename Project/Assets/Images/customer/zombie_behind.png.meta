@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 67a67b6e53862b94d9a32c814a69b007
+guid: 22981bf891dae7043ba08c170cad5faf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 618481973560447486
-    second: customer03_0
-  - first:
-      213: -4271667914102967173
-    second: customer03_1
+      213: 4067289717892039702
+    second: zombie_behind_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -103,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: customer03_0
+      name: zombie_behind_0
       rect:
         serializedVersion: 2
-        x: 271
-        y: 413
-        width: 11
-        height: 15
+        x: 86
+        y: 40
+        width: 365
+        height: 577
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ef19d0ef31a459800800000000000000
-      internalID: 618481973560447486
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: customer03_1
-      rect:
-        serializedVersion: 2
-        x: 272
-        y: 150
-        width: 221
-        height: 484
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b7475751aacf7b4c0800000000000000
-      internalID: -4271667914102967173
+      spriteID: 614cd81f27ae17830800000000000000
+      internalID: 4067289717892039702
       vertices: []
       indices: 
       edges: []
@@ -160,8 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      customer03_0: 618481973560447486
-      customer03_1: -4271667914102967173
+      zombie_behind_0: 4067289717892039702
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
