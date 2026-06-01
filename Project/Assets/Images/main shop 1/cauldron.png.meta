@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 428d71ea60d070046b42e5857f6ee261
+guid: 5739e13527a603b44ad7bd5e21310e01
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -106,10 +106,10 @@ TextureImporter:
       name: cauldron_0
       rect:
         serializedVersion: 2
-        x: 1331
-        y: 400
-        width: 157
-        height: 181
+        x: 1329
+        y: 396
+        width: 162
+        height: 185
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

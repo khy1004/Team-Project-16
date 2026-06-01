@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: cda3d3bcaafc7424fb9c5290d1dfd432
+guid: 9592d85b436dcae40bb8a2986d712249
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5266067843512441219
-    second: ladder_0
+      213: 5795814407860715475
+    second: shelf_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ladder_0
+      name: shelf_0
       rect:
         serializedVersion: 2
-        x: 733
-        y: 505
-        width: 115
-        height: 338
+        x: 887
+        y: 399
+        width: 536
+        height: 413
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3899aa78dc4d41940800000000000000
-      internalID: 5266067843512441219
+      spriteID: 3dff0a41f7ede6050800000000000000
+      internalID: 5795814407860715475
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ladder_0: 5266067843512441219
+      shelf_0: 5795814407860715475
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
