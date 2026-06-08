@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CustomerData
   customerID: 1
   customerName: "\uD22C\uBA85\uD558\uC9C0 \uC54A\uC740 \uC190\uB2D8"
-  Artwork: {fileID: -6007857137893288414, guid: 9c15a2fe9c9a267428fcee7eaea6e50e, type: 3}
+  Artwork: {fileID: -6583311688487332319, guid: 175fdb6857406314ab071c9a0e079007, type: 3}
   potionOrder: {fileID: 11400000, guid: 44e5d6f94bbd68d4980b3a41a3deda8a, type: 2}
   orderText: "\uC0AC\uB78C\uB4E4\uC5D0\uAC8C \uC81C \uBAA8\uC2B5\uC774 \uC548\uBCF4\uC600\uC73C\uBA74
     \uC88B\uACA0\uC5B4\uC694"

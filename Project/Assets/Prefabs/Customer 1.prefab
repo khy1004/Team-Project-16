@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2543984975924778262}
   - component: {fileID: 4649684496299758260}
   m_Layer: 0
-  m_Name: Customer
+  m_Name: Customer 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -82,8 +82,8 @@ SpriteRenderer:
   m_SortingLayer: 7
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -6007857137893288414, guid: 9c15a2fe9c9a267428fcee7eaea6e50e, type: 3}
-  m_Color: {r: 0.04500723, g: 1, b: 0, a: 1}
+  m_Sprite: {fileID: -6583311688487332319, guid: 175fdb6857406314ab071c9a0e079007, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -104,7 +104,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1988230efb543e449b21d2a13751a1a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CustomerController
-  customerData: {fileID: 11400000, guid: 739443a5344743141beeee3c9c684d7b, type: 2}
+  customerData: {fileID: 11400000, guid: fa0f96cbed36d25429bea8270d84d9fc, type: 2}
   isQuitting: 0
   isDone: 0
   customerPrefab: {fileID: 0}
