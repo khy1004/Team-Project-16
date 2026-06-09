@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -8704751752000885509, guid: cfce182d5762fc54094822b4d9393194, type: 3}
+  m_Sprite: {fileID: 2514365775247360604, guid: 2f6beb7618e840045a29ad487be454b3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 827371370868231646}
   - component: {fileID: 2377804228104616957}
   m_Layer: 5
-  m_Name: Potion
+  m_Name: Potion 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -142,7 +142,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -8704751752000885509, guid: cfce182d5762fc54094822b4d9393194, type: 3}
+  m_Sprite: {fileID: 2514365775247360604, guid: 2f6beb7618e840045a29ad487be454b3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -164,5 +164,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 553850d8d302d0942bc3c13df38c7062, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PotionDisplay
-  potionInfo: {fileID: 11400000, guid: 44e5d6f94bbd68d4980b3a41a3deda8a, type: 2}
+  potionInfo: {fileID: 11400000, guid: 800ef4de323934a4681179a8cb5a0b8e, type: 2}
   potionImage: {fileID: 8830997776165423690}

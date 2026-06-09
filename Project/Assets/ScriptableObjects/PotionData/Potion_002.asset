@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PotionData
   potionID: 2
   potionName: "\uAD34\uB825 \uD3EC\uC158"
-  artwork: {fileID: -6007857137893288414, guid: 9c15a2fe9c9a267428fcee7eaea6e50e, type: 3}
+  artwork: {fileID: 2514365775247360604, guid: 2f6beb7618e840045a29ad487be454b3, type: 3}
   potionRecipe: 0000000002000000020000000000000001000000
