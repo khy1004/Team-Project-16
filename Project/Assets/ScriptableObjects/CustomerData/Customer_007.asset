@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b87c30aa623761b47973162437f85d86, type: 3}
+  m_Name: Customer_007
+  m_EditorClassIdentifier: Assembly-CSharp::CustomerData
+  customerID: 7
+  customerName: "\uC9D1\uC911\uB825 \uC5C6\uB294 \uC190\uB2D8"
+  Artwork: {fileID: -7704851402486316770, guid: 10f2d11dd34a3a449a1926917ce5ddcf, type: 3}
+  potionOrder: {fileID: 11400000, guid: e65f58537f7b1ba439a653633b0d5d0c, type: 2}
+  orderText: "\uC544 \uC81C\uAC00 \uBB34\uC2A8 \uD3EC\uC158\uC774 \uD544\uC694\uD574\uC8E0? "
+  orderBadText: "\uC74C \uC544\uB2C8\uAC83 \uAC19\uC544\uC694"
+  orderGoodText: "\uB9DE\uC544\uC694"
+  moveSpeed: 2
