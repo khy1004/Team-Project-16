@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b87c30aa623761b47973162437f85d86, type: 3}
-  m_Name: Customer_ 001
+  m_Name: Customer_001
   m_EditorClassIdentifier: Assembly-CSharp::CustomerData
   customerID: 1
   customerName: "\uD22C\uBA85\uD558\uC9C0 \uC54A\uC740 \uC190\uB2D8"

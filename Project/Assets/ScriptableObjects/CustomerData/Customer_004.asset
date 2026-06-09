@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Customer_004
   m_EditorClassIdentifier: Assembly-CSharp::CustomerData
   customerID: 4
-  customerName: "\uC758\uC9C0\uAC00 \uBD80\uC871\uD568  \uC190\uB2D8"
+  customerName: "\uC758\uC9C0 \uBD80\uC871\uD55C \uC190\uB2D8"
   Artwork: {fileID: -5046936332756053703, guid: cb8e30e6dfe9e6a44b287d8625355e8a, type: 3}
   potionOrder: {fileID: 11400000, guid: 4ce71255c67b6f145959300473a34f3d, type: 2}
   orderText: "\uC758\uC9C0 \uB108\uBB34 \uBD80\uC871\uD574\uC694"
