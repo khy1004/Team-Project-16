@@ -610,6 +610,7 @@ MonoBehaviour:
   customerOrder:
   - {fileID: 11400000, guid: 739443a5344743141beeee3c9c684d7b, type: 2}
   - {fileID: 11400000, guid: fa0f96cbed36d25429bea8270d84d9fc, type: 2}
+  - {fileID: 11400000, guid: e33897db9c9b29446a1df2b07db6e869, type: 2}
 --- !u!4 &188542172
 Transform:
   m_ObjectHideFlags: 0

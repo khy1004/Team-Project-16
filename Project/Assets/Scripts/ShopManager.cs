@@ -158,7 +158,7 @@ public class ShopManager : MonoBehaviour
         }
         else if (perfectZoneIndex[attemptCount] == "PerfectZoneYellow")
         {
-            perfectZoneIndexImage[attemptCount].color = new Color(255f / 255f, 255f / 255f, 0f, 255f / 255f);
+            perfectZoneIndexImage[attemptCount].color = new Color(255f / 255f, 145f / 255f, 0f / 255f, 255f / 255f);
             collectedIngredients[1]++;
         }
         else if (perfectZoneIndex[attemptCount] == "PerfectZonePink")
