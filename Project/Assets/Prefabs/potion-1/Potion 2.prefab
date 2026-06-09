@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 2514365775247360604, guid: 2f6beb7618e840045a29ad487be454b3, type: 3}
+  m_Sprite: {fileID: 6466158510895445746, guid: 469e0ad28bae0d54999e183f3336d4b9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -88,7 +88,7 @@ GameObject:
   - component: {fileID: 827371370868231646}
   - component: {fileID: 2377804228104616957}
   m_Layer: 5
-  m_Name: Potion 1
+  m_Name: Potion 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -135,14 +135,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.16078432, g: 0.16078432, b: 0.16078432, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 2514365775247360604, guid: 2f6beb7618e840045a29ad487be454b3, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -164,5 +164,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 553850d8d302d0942bc3c13df38c7062, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PotionDisplay
-  potionInfo: {fileID: 11400000, guid: 800ef4de323934a4681179a8cb5a0b8e, type: 2}
+  potionInfo: {fileID: 11400000, guid: 472c2122fe83b9441befc3d7aa4c320d, type: 2}
   potionImage: {fileID: 8830997776165423690}
