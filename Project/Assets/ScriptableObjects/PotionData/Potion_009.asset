@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a04a1d8489e39324db36a7423668cedb, type: 3}
-  m_Name: Potion_001
+  m_Name: Potion_009
   m_EditorClassIdentifier: Assembly-CSharp::PotionData
-  potionID: 1
-  potionName: "\uD22C\uBA85\uD654 \uD3EC\uC158"
-  artwork: {fileID: -8704751752000885509, guid: cfce182d5762fc54094822b4d9393194, type: 3}
-  potionRecipe: 0000000000000000010000000100000003000000
+  potionID: 9
+  potionName: "\uCCB4\uB825 \uD3EC\uC158"
+  artwork: {fileID: 6337232890774223846, guid: 197628c17784c5e4884027fae7714651, type: 3}
+  potionRecipe: 0100000003000000000000000000000001000000
